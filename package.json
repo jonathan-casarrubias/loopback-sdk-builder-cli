@@ -1,7 +1,7 @@
 {
-  "name": "loopback-sdk-angular-cli",
+  "name": "loopback-sdk-builder-cli",
   "version": "2.0.1",
-  "description": "CLI tools for auto-generating Angular $resource services for LoopBack",
+  "description": "CLI tools for auto-generating Software Development Kits for LoopBack",
   "bin": {
     "lb-ng": "bin/lb-ng"
   },
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strongloop/loopback-sdk-angular-cli.git"
+    "url": "git://github.com/jonathan-casarrubias/loopback-sdk-builder-cli.git"
   },
   "keywords": [
     "loopback",
@@ -23,9 +23,16 @@
     "email": "callback@strongloop.com",
     "url": "http://strongloop.com/"
   },
+  "contributors": [
+    {
+      "name": "Jonathan Casarrubias",
+      "email": "jcasarrubias@mean.expert",
+      "url": "http://mean.expert/"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/strongloop/loopback-sdk-angular-cli/issues"
+    "url": "https://github.com/strongloop/loopback-sdk-builder-cli/issues"
   },
   "engines": {
     "node": ">= 0.8.0"

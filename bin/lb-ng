@@ -4,7 +4,7 @@ var fs = require('fs');
 var path = require('path');
 var semver = require('semver');
 var optimist = require('optimist');
-var generator = require('loopback-sdk-angular');
+var generator = require('loopback-sdk-builder);
 
 var argv = optimist
   .usage('Generate Angular $resource services for your LoopBack application.' +
