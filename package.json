@@ -1,6 +1,6 @@
 {
   "name": "loopback-sdk-builder-cli",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "CLI tools for auto-generating Software Development Kits for LoopBack",
   "bin": {
     "lb-ng": "bin/lb-ng"
